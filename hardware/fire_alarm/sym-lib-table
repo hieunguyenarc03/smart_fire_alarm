@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fire_alarm")(type "KiCad")(uri "${KIPRJMOD}/libraries/fire_alarm.kicad_sym")(options "")(descr ""))
+)
