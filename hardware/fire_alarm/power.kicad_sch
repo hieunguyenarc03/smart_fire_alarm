@@ -2809,7 +2809,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "24f5cca7-6c41-4c4b-bd9a-8c903f986f8c")
 		(property "Reference" "C1"
 			(at 96.52 69.8499 0)
@@ -2820,8 +2819,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF 50V"
-			(at 96.52 72.3899 0)
+		(property "Value" "10uF 25V"
+			(at 89.154 72.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2829,7 +2828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 93.6752 74.93 0)
 			(effects
 				(font
@@ -3147,7 +3146,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4361e92c-97e4-46b5-b281-3e7a423a5296")
 		(property "Reference" "R1"
 			(at 107.95 69.8499 0)
@@ -3159,7 +3157,7 @@
 			)
 		)
 		(property "Value" "100kOhm 0.1W"
-			(at 107.95 72.3899 0)
+			(at 101.6 73.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3899,7 +3897,7 @@
 			)
 		)
 		(property "Value" "24.9kOhm 0.125W"
-			(at 203.2 75.184 0)
+			(at 197.358 71.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4532,7 +4530,7 @@
 			)
 		)
 		(property "Value" "42.2kOhm 0.1W"
-			(at 171.45 72.3899 0)
+			(at 161.29 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
