@@ -420,6 +420,18 @@
     [
       "341ac7be-7be9-46bf-9f34-a87c6324e52b",
       "mcu"
+    ],
+    [
+      "bbd03328-1728-4c8e-873e-00b3aed96dbb",
+      "sensors"
+    ],
+    [
+      "38c0c485-8389-4e21-b12f-abe9866b1739",
+      "indicators"
+    ],
+    [
+      "356c1e9d-4301-4e20-9a13-66d657748c38",
+      "ui"
     ]
   ],
   "text_variables": {}
