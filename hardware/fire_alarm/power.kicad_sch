@@ -4153,7 +4153,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680Ohm 0.1W"
+		(property "Value" "330Ohm 0.1W"
 			(at 247.65 74.9299 0)
 			(effects
 				(font
@@ -4706,7 +4706,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680Ohm 0.1W"
+		(property "Value" "33Ohm 0.1W"
 			(at 176.53 133.3499 0)
 			(effects
 				(font
